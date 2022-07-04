@@ -1,5 +1,5 @@
 name: 'tauri-action-s3'
-description: 'Build tauri binaries for MacOS, Windows and Linux'
+description: 'Build tauri binaries for MacOS, Windows and Linux And publish on s3'
 icon: 'download-cloud'
 color: 'blue'
 author: 'Lucas Nogueira <lucas@tauri.studio>'
